@@ -1,0 +1,4 @@
+gunicorn
+falsk
+joblib
+scikit-learn
